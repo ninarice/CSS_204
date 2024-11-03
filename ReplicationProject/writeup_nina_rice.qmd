@@ -40,7 +40,7 @@ Participants will then be randomly assigned into one of the two experimental con
 
 ### Analysis Plan
 
-We will undergo regression analysis to determine difference in donation amounts between conditions. A series of regression analyses will help to examine differences within conditions of money donated to cause versus overhead. A t-test can also compare mean amounts of donations within each category.
+We will undergo regression analysis to determine difference in donation amounts between conditions. A series of regression analyses will help to examine differences within conditions of money donated to cause versus overhead, as well as regarding donation satisfaction level. Multiple linear regressions can be conducted using condition as the independent variable and demographics as the dependent variables. This can also be done with other variables as the independent variables, such as donation amounts. A t-test can also compare mean amounts of donations within each category.
 
 ### Differences from Original Study
 
